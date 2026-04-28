@@ -1,0 +1,14 @@
+<Project>
+  <PropertyGroup>
+    <Authors>Victor Freire</Authors>
+    <Description>CSS-in-F# for Giraffe.ViewEngine. Define scoped styles inline, only the CSS actually used on each page gets rendered.</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <RepositoryUrl>https://github.com/ratsclub/Giraffe.ViewEngine.Style</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/ratsclub/Giraffe.ViewEngine.Style</PackageProjectUrl>
+    <PackageTags>fsharp;giraffe;css;viewengine</PackageTags>
+    <Deterministic>true</Deterministic>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <MSBuildTreatWarningsAsErrors>true</MSBuildTreatWarningsAsErrors>
+  </PropertyGroup>
+</Project>

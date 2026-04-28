@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Giraffe.ViewEngine.Style.fsproj" />
+  </Folder>
+  <Folder Name="/test/">
+    <Project Path="test/Giraffe.ViewEngine.Style.Tests.fsproj" />
+  </Folder>
+</Solution>
